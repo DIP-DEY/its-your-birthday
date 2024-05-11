@@ -18,10 +18,8 @@
 		<video src="https://drive.google.com/file/d/1XmWuRCWQL0AxMr8rzJ_zUwUPgEhYcy25/view?usp=drive_link"HEIGHT=200 WIDTH=300><br><br>
 	</CENTER>
 	<P ALIGN="JUSTIFY">
-	The night before holi is called Holika Dahan.Where by people gather around 
-	a lit bonfire,symbolising the victory of good over evil and removal of the old and
-	arrival of the new various rituals are performed around the fire such as singing
-	 and dancing.
+	HEY BROTHER ITS YOUR DAY ENJOY YOUR DAY
+	
 	</P>
 	</BODY>
 </HTML>
