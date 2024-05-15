@@ -7,7 +7,7 @@
 	</HEAD>
 	<BODY BGCOLOR="white">
 	<CENTER>
-	<H1><b>HAPPY BIRTHDAY brother. MANY MANY HAPPY RETURNS OF THE DAY</b></H1>
+	<H1><b>HAPPY BIRTHDAY BROTHER. MANY MANY HAPPY RETURNS OF THE DAY</b></H1>
 	<h3><b>HEY BROTHER ITS YOUR BIRTHDAY. ENJOY YOUR DAY.</b></h3>
 	         <IMG SRC="https://drive.google.com/file/d/1uTvHlOGGciIVepbm9QPatps2cc8c2Cif/view?usp=sharing"HEIGHT=150 WIDTH=250><br>
 		<a href="[https://drive.google.com/file/d/1AaGbVNu0SOQHY9INVgQcx5QAiUJL6yIU/view?usp=sharing]">plse click hear <BUtton></BUtton></a>
